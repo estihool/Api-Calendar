@@ -1,0 +1,54 @@
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\bin\Debug\net6.0\appsettings.Development.json
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\bin\Debug\net6.0\appsettings.json
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\bin\Debug\net6.0\lesson.exe
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\bin\Debug\net6.0\lesson.deps.json
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\bin\Debug\net6.0\lesson.runtimeconfig.json
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\bin\Debug\net6.0\lesson.dll
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\bin\Debug\net6.0\lesson.pdb
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\obj\Debug\net6.0\lesson.csproj.AssemblyReference.cache
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\obj\Debug\net6.0\lesson.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\obj\Debug\net6.0\lesson.AssemblyInfoInputs.cache
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\obj\Debug\net6.0\lesson.AssemblyInfo.cs
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\obj\Debug\net6.0\lesson.csproj.CoreCompileInputs.cache
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\obj\Debug\net6.0\lesson.MvcApplicationPartsAssemblyInfo.cs
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\obj\Debug\net6.0\lesson.MvcApplicationPartsAssemblyInfo.cache
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\obj\Debug\net6.0\scopedcss\bundle\lesson.styles.css
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\obj\Debug\net6.0\lesson.csproj.CopyComplete
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\obj\Debug\net6.0\lesson.dll
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\obj\Debug\net6.0\refint\lesson.dll
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\obj\Debug\net6.0\lesson.pdb
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\obj\Debug\net6.0\lesson.genruntimeconfig.cache
+Y:\Gruops\Group_5\הול  אסתר\דוטנט\lesson\lesson\obj\Debug\net6.0\ref\lesson.dll
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\bin\Debug\net6.0\lesson.exe
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\bin\Debug\net6.0\lesson.deps.json
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\bin\Debug\net6.0\lesson.runtimeconfig.json
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\bin\Debug\net6.0\lesson.dll
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\bin\Debug\net6.0\lesson.pdb
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\obj\Debug\net6.0\lesson.csproj.AssemblyReference.cache
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\obj\Debug\net6.0\lesson.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\obj\Debug\net6.0\lesson.AssemblyInfoInputs.cache
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\obj\Debug\net6.0\lesson.AssemblyInfo.cs
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\obj\Debug\net6.0\lesson.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\obj\Debug\net6.0\lesson.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\obj\Debug\net6.0\lesson.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\obj\Debug\net6.0\scopedcss\bundle\lesson.styles.css
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\obj\Debug\net6.0\lesson.csproj.CopyComplete
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\obj\Debug\net6.0\lesson.dll
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\obj\Debug\net6.0\refint\lesson.dll
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\obj\Debug\net6.0\lesson.pdb
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\obj\Debug\net6.0\lesson.genruntimeconfig.cache
+Y:\Groups\Group_5\הול  אסתר\דוטנט\lesson2 api\lesson\obj\Debug\net6.0\ref\lesson.dll
