@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ic4VILv/75ZIE7duRk1p0XYS0iTQRAfaU/YNeff+KjMkjQjapWd6fAfiadF48t5M321k+B1o3K5qigKv97FywQ==",
+  "dgSpecHash": "69/L0oHEU8ncaazgtIjCU4OXg76FFpRJHm4OGRcAESZGg0tBTei9HH+RUgb7hmE6PQ5f97p+jl0tMBoRKBjmkw==",
   "success": true,
   "projectFilePath": "Y:\\Groups\\Group_5\\הול  אסתר\\דוטנט\\lesson2 api\\lesson\\lesson.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\hitmachut\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
     "C:\\Users\\hitmachut\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\hitmachut\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\hitmachut\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
